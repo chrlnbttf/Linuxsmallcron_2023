@@ -1,0 +1,18 @@
+Sat Jun 24 13:05:18 CEST 2023
+rtx3060:11
+rtx3070:3
+rtx3080:3
+rtx3090:6
+rx6700:3
+Sat Jun 24 13:06:18 CEST 2023
+rtx3060:16
+rtx3070:9
+rtx3080:9
+rtx3090:0
+rx6700:5
+Sat Jun 24 13:07:18 CEST 2023
+rtx3060:9
+rtx3070:6
+rtx3080:6
+rtx3090:1
+rx6700:9
